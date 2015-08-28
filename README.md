@@ -1,0 +1,2 @@
+# MyGhost
+Ghost blog client
